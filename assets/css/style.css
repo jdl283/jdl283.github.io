@@ -145,6 +145,10 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   font-size: 20px;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .h3 {
   font-size: 20px;
 }
@@ -302,8 +306,9 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 # Header
 --------------------------------------------------------------*/
 /* Custom Navmenu */
+/* #0d1e2d */
 .custom-navmenu {
-  background: #0d1e2d;
+  background: #303030;
 }
 .custom-navmenu .custom-menu, .custom-navmenu .custom-menu li {
   padding: 0;
