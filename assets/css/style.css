@@ -180,6 +180,10 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   background: #000;
 }
 
+.backtohome {
+  margin-top: 40px;
+}
+
 .testimonials-slider .swiper-pagination {
   margin-top: -60px;
   position: relative;
